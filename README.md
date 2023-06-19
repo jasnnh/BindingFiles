@@ -8,3 +8,5 @@ In this example we binded the .zip file which contains a text file with fake ban
 as an image file however we can also treat the image file as a .zip and open it as one using a program to unzip or unrar of our choice.
 
 the code used in this example is MS-DOS, MS-DOS is a Windows CLI code and the main code for this example is copy /b.
+
+![Screenshot](https://github.com/jasnnh/BindingFiles/blob/main/image.png)
