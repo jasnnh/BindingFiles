@@ -1,0 +1,1 @@
+copy /b image.png+file.zip hiddenfile.png
