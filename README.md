@@ -1,4 +1,5 @@
 # BindingFiles
+Steganography is the practice of concealing information within another message or physical object to avoid detection.
 Hide files within an image or another file
 
 Hiding files within another file has a lot of benefits, one is security wise it does add another layer of protection as this file doesn't look out of place.
